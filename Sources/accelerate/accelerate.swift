@@ -5,7 +5,7 @@
 //
 // Accelerate Linux, vectores wrapper
 //
-// Copyright © 2018 Rafael Fernando Garcia Sagastume.
+// Copyright © Rafael Fernando Garcia Sagastume.
 //===----------------------------------------------------------------------===//
 
 
